@@ -43,7 +43,7 @@ paginate = 3
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "cd /home/"
+      logoText = "cd /home"
       logoHomeLink = "/"
     # or
     #
