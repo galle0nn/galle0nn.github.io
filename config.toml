@@ -1,7 +1,7 @@
 baseURL = 'https://galle0nn.github.io/'
 languageCode = 'en-us'
 theme = 'hello-friend'
-paginate = 3
+paginate = 4
 
 
 [params]
