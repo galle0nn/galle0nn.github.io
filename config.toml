@@ -39,7 +39,7 @@ paginate = 3
     olderPosts = "Older posts"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
-    # leave empty to disable, enter display text to enable
+    # leave  empty to disable, enter display text to enable
     # lastModDisplay = ""
 
     [languages.en.params.logo]
