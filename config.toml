@@ -68,7 +68,7 @@ paginate = 3
 
   [[params.social]]
     name = "github"
-    url  = "https://twitter.com/galle0nn"
+    url  = "https://github.com/galle0nn"
 
   [[params.social]]
     name = "email"

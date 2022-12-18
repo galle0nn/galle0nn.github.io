@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: "2022-12-07"
+toc: false
 ---
 Hello there. I'm **galle0n** and welcome to my blog. I am a former chemist trying to transition into the cybersecurity industry. Because there are so many different fields within this industry, I spent the past year dabbling with some of the ones that seemed interesting to me. In the end, I became particularly interested in malware analysis and would like to pursue it as a career.
 
