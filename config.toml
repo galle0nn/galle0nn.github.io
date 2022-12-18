@@ -72,4 +72,4 @@ paginate = 3
 
   [[params.social]]
     name = "email"
-    url  = "galle0nn@protonmail.com"
+    url  = "mailto:galle0nn@protonmail.com"
