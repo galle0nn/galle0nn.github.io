@@ -1,0 +1,3 @@
+[submodule "layouts/themes/friend"]
+	path = layouts/themes/friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
