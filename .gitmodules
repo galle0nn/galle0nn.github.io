@@ -1,0 +1,3 @@
+[submodule "themes/friend"]
+	path = themes/friend
+	url = https://github.com/galle0nn/hugo-theme-hello-friend
