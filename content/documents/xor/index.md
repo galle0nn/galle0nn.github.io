@@ -5,7 +5,7 @@ toc: false
 description: "Understanding XOR and how it is used for malware analysis"
 ---
 
-# XOR (exclusive OR)
+- Short for *exclusive OR*
 - Requires only a single machine-code instruction
 - Can be used by malware authors to obfuscate code
 	- Also used to encrypt data so that it is only readable when executed

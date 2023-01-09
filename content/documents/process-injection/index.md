@@ -5,7 +5,6 @@ toc: false
 description: "Understanding process injection and API calls to look for during malware analysis"
 ---
 
-# Process Injection
 - A technique often used by malware authors to avoid static detection of their code
 - Injects malicious code into a trusted running process which will then execute said code (payload)
 
