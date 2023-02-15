@@ -28,18 +28,18 @@ if A is 0 and B is 0, the result is 0
 
 - XOR on `4D 5A`
 ```
-Converting 4D 5A to its respective binary numbers
+Converting 4D 5A to its respective bits
 4            D            5            A
 4            13           5            10
 8 4 2 1      8 4 2 1      8 4 2 1      8 4 2 1
 0 1 0 0      1 1 0 1      0 1 0 1      1 0 1 0  
 
-XOR on 4D 5A binary numbers 
+XOR on 4D 5A bits
  4D = 0 1 0 0 1 1 0 1
  5A = 0 1 0 1 1 0 1 0
 XOR = 0 0 0 1 0 1 1 1
 
-Converting the XOR binary number back to hexadecimal
+Converting the XOR bits back to hexadecimal
 0 0 0 1      0 1 1 1
 8 4 2 1      8 4 2 1
 1            7
@@ -65,3 +65,5 @@ Therefore, when XOR of 4D 5A occurs, we will get a hexadecimal result of 17
 	3. XOR of one register with a different register
 		- **e.g** `xor eax, ecx`
 		- Possible indication of an encoding loop
+
+
