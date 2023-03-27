@@ -43,7 +43,3 @@ description: "Understanding process injection and API calls to look for during m
 		2. `ResumeThread`
 			- Resumes the target process that was suspended in the beginning
 
-- Refer to the table below for commonly used Windows API functions for process injection
-
-![process injection](<images/1.png>)
-Figure 1. Table for Process Injection techniques and commonly used API functions
